@@ -18,7 +18,7 @@ La salida queda definida por:
 - *freq_counte*: define la frecuencia del canal PWM
 - *duty_counter*: define el duty cycle del canal PWM
 
-El diagrama de bloques del modulo disenado es el siguiente:
+El diagrama de bloques del modulo diseñado es el siguiente:
 
 ![](./docs/pwm.svg)
 
